@@ -23,4 +23,4 @@ The data was collected by San Jose State University Peer Connections using surve
 of students about some specific groups as well as their satisfaction about Learning Assistant service. This data was
 collected before and after a regular semester from Fall 2022 to Fall 2023. 
 
-For more information, check out the project report!
+For more information, check out the project report: https://tinyurl.com/yz5skyvt ! (It is the pdf file above btw :) )
